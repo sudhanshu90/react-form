@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-form.git/static/css/main.1a8a0596.css",
-    "main.js": "/react-form.git/static/js/main.5a971cfe.js",
-    "index.html": "/react-form.git/index.html",
-    "main.1a8a0596.css.map": "/react-form.git/static/css/main.1a8a0596.css.map",
-    "main.5a971cfe.js.map": "/react-form.git/static/js/main.5a971cfe.js.map"
+    "main.css": "/react-form/static/css/main.1a8a0596.css",
+    "main.js": "/react-form/static/js/main.5a971cfe.js",
+    "index.html": "/react-form/index.html",
+    "main.1a8a0596.css.map": "/react-form/static/css/main.1a8a0596.css.map",
+    "main.5a971cfe.js.map": "/react-form/static/js/main.5a971cfe.js.map"
   },
   "entrypoints": [
     "static/css/main.1a8a0596.css",
